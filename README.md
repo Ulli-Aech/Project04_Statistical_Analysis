@@ -20,7 +20,7 @@ This project is part of the Ironhack data analytics bootcamp. The goal of this p
   
 ## Dataset
   
-The analysis are based on the Housing prices dataset from this source: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data  The data in the train.csv file contains data that describes (almost) every aspect of residential homes in Ames, Iowa (US) and their sales prices. In the data_description.txt is a brief description of the kind of data that the different columns contain.
+The analysis are based on the Housing prices dataset from this source: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data.   The data in the train.csv file contains data which describes (almost) every aspect of residential homes in Ames, Iowa (US) and their sales prices. In the data_description.txt is a brief description of the kind of data that the different columns contain.
   
 ## Workflow
 
