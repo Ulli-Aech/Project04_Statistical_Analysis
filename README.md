@@ -16,7 +16,7 @@ Berlin, 13-09-2020
   
 ## Project Description
   
-This project is part of the Ironhack data analytics bootcamp. The goal of this project was to perform statistical analysis on a given dataset. The goal is to identify the most important features of houses that affect the sales price.
+This project is part of the Ironhack data analytics bootcamp. The goal of this project was to perform statistical analysis on a given dataset. The goal of the analysis is to identify the most important features of houses that affect the sales price.
   
 ## Dataset
   
